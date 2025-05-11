@@ -9,7 +9,7 @@ This repo contains the following folders
 Each folder contains a README describing the contents and an R file. The R file contains functions is meant to be sourced into your .RMD or .ipynb. For example
 
 ```r
-source("/tscc/projects/ps-sunlab/project/Annika_files/toolbox/scRNAseq_toolbox.R")
+source("/Users/alexanderfoote/dev/scRNAseq_toolbox.R")
 
 ```
 
